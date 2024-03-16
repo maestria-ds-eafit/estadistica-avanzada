@@ -11,6 +11,9 @@ statsmodels = "*"
 scipy = "*"
 numpy = "*"
 notebook = "*"
+seaborn = "*"
+arch = "*"
+yfinance = "*"
 
 [dev-packages]
 
