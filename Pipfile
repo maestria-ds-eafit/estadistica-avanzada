@@ -4,6 +4,13 @@ verify_ssl = false
 name = "pip_conf_index_global"
 
 [packages]
+pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
+statsmodels = "*"
+scipy = "*"
+numpy = "*"
+notebook = "*"
 
 [dev-packages]
 
