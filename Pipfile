@@ -16,6 +16,7 @@ arch = "*"
 yfinance = "*"
 openpyxl = "~=3.1.2"
 xlrd = "*"
+skforecast = "*"
 
 [dev-packages]
 
