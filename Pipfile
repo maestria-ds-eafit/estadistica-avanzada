@@ -16,10 +16,11 @@ arch = "*"
 yfinance = "*"
 openpyxl = "~=3.1.2"
 xlrd = "*"
-skforecast = "*"
+skforecast = "~=0.11.0"
 tensorflow = "*"
 graphviz = "*"
 plotly = "*"
+torch = "==2.2.1"
 
 [dev-packages]
 
