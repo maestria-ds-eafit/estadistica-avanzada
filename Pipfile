@@ -18,6 +18,7 @@ openpyxl = "~=3.1.2"
 xlrd = "*"
 skforecast = "*"
 tensorflow = "*"
+graphviz = "*"
 
 [dev-packages]
 
